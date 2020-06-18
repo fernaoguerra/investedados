@@ -10,7 +10,6 @@ type = "post"
 +++
 
 **O que é?**
-[Pizza](https://en.wikipedia.org/wiki/Pizza)
 
 O investeDados é um conjunto de ferramentas tecnologicas para o pequeno investidor. [Relatórios automatizados](), [Dashboard Fundamentalistas]() e [mais](). Toda informação é disponibilizada de forma gratuita e financiada pela própria comunidade.
 
