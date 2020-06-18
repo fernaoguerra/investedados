@@ -19,8 +19,8 @@ Para ter acesso ao relatórios e ferramentas clique [aqui]()
 
 **Mas essa parada é gratis mesmo ou vai ficar me enchendo de SPAM pra comprar seu infoproduto?**
 
-Todas ferramentas no site são disponibilizada de graça. Ninguém tem que pagar nada, mas existem pessoas que colaboram financeiramente com qualquer valor para manter o projeto de pé, pagar algo de infra tecnológica e quem sabe até pagar um café pra gente. Aqui está a lista das pessoas que já colaboraram ao menos uma vez com o projeto [aqui]()
-Se quiser colaborar [clique aqui]()
+Todas ferramentas no site são disponibilizada de graça. Ninguém tem que pagar nada, mas existem pessoas que colaboram financeiramente com qualquer valor para manter o projeto de pé, pagar algo de infra tecnológica e quem sabe até pagar um café pra gente. Aqui está a lista das pessoas que já colaboraram ao menos uma vez com o projeto [aqui](https://datastudio.google.com/u/3/reporting/b402dce7-8409-494b-8594-5035bac88ac7/page/o1sRB)
+Se quiser colaborar [clique aqui](https://app.picpay.com/user/fernaoguerra)
 
 
 

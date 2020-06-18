@@ -18,5 +18,5 @@ tools:
   # tool loop in tool category
   - name: Detalhe de Bancos
     image: "/images/tools/dados-historicos-de-bancos.png"
-    link: https://mailchimp.com/
+    link: https://datastudio.google.com/u/0/reporting/ec1f3b97-0723-4008-b906-513018f1da86/page/BSGSB
   # tool loop in tool category
