@@ -35,7 +35,7 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Oi, Bem-vindo ao InvesteDados. <br> Ferramentas tech para o pequeno investidor"
+title = "Bem-vindo ao InvesteDados. <br> Ferramentas tech para o pequeno investidor"
 [params.cta]
 description = "Solicite acesso as ferramentas e relatórios aqui."
 enable = true
