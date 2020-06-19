@@ -11,7 +11,7 @@ type = "post"
 
 **O que é?**
 
-O investeDados é um conjunto de ferramentas tecnologicas para o pequeno investidor. [Relatórios automatizados](), [Dashboard Fundamentalistas]() e [mais](). Toda informação é disponibilizada de forma gratuita e financiada pela própria comunidade.
+O investeDados é um conjunto de ferramentas tecnologicas para o pequeno investidor. [Relatórios automatizados](/tools), [Dashboard Fundamentalistas](/tools) e [mais](/tools). Toda informação é disponibilizada de forma gratuita e financiada pela própria comunidade.
 
 Nasceu de um projeto pessoal de [Fernão Guerra](https://twitter.com/fernaoguerra) para acompanhar seus investimentos. Logo compartilhou com seu amnigo de infância [Juliano Paixão](https://twitter.com/julianopaixao2) que ajudou/ajuda a melhor a interface e adicionar novas funcionalidades. Decidimos compartilhar com toda comunidade as mesmas ferramentas que usamos no nosso dia a dia de sardinha.
 

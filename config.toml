@@ -8,15 +8,23 @@ title = "InvesteDados"
 [[menu.footer]]
 URL = "contact"
 name = "Contato"
-weight = 2
+weight = 3
 [[menu.footer]]
 URL = "tools"
 name = "Ferramentas"
 weight = 1
+[[menu.footer]]
+URL = "o-que-e-o-investdados"
+name = "Comece aqui"
+weight = 2
+[[menu.main]]
+URL = "o-que-e-o-investdados"
+name = "Comece aqui"
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contato"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "tools"
 name = "Ferramentas"
