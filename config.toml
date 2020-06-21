@@ -6,7 +6,7 @@ summaryLength = "10"
 theme = "northendlab"
 title = "InvesteDados"
 [[menu.footer]]
-URL = "contact"
+URL = "contato"
 name = "Contato"
 weight = 3
 [[menu.footer]]
@@ -22,7 +22,7 @@ URL = "o-que-e-o-investdados"
 name = "Comece aqui"
 weight = 2
 [[menu.main]]
-URL = "contact"
+URL = "contato"
 name = "Contato"
 weight = 3
 [[menu.main]]
@@ -39,7 +39,7 @@ description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
-logo = "images/logo.svg"
+logo = "images/logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
