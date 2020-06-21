@@ -39,7 +39,7 @@ description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
-logo = "images/logo.png"
+logo = "images/logo2.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
@@ -52,7 +52,7 @@ title = "Peça acesso ao dashboard"
 [params.cta.button]
 enable = true
 label = "Peça aqui"
-link = "tools/"
+link = "https://groups.google.com/g/investidoresdevalor?pli=1"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
