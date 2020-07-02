@@ -1,7 +1,7 @@
 ---
 title: "Fale com a gente"
 draft: false
-description : "this is meta description"
+description : "Fale com a gente - InvesteDados"
 image: "images/contact.svg"
 ---
 
