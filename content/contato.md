@@ -3,7 +3,7 @@ title = "Contato"
 image = "/images/contact.svg"
 author = "Fernao guerra"
 date = 2019-11-07T05:00:00Z
-description = "This is meta description"
+description = "Fale com a gente - InvesteDados"
 categories = ["contato"]
 type = "post"
 
