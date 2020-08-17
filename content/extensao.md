@@ -10,6 +10,8 @@ type = "post"
 
 +++
 
+PARA PAGAMENTO VIA PICPAY [CLIQUE AQUI](https://picpay.me/fernaoguerra/60.0)
+
 **Como funciona a fase beta?**
 
 A extensão do investidados é uma extensão que traz contexto/informação das empresas de capital aberto da bolsa brasileira para qualquer página da web.
